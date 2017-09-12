@@ -11,6 +11,7 @@
 ## What can you find in my Github Page?
 
 - A few technological articles about computer science including data structure, algorithm and complexity and Python.
+- Some useful tips for Linux.
 - Some pieces of proses about Economy and Psychology
 - etc.
 
