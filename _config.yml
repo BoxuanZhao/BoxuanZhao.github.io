@@ -15,13 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: BoxuanZhao
 email: b-x-zhao@sjtu.edu.cn
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to BoxuanZhao's Webpage!
+description: >-  # this means to ignore newlines until "baseurl:"
+  Welcome to BoxuanZhao's Personal Site!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://BoxuanZhao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NULL
 github_username: BoxuanZhao
-theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
